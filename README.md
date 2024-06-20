@@ -3,8 +3,8 @@
 Hello!
 Welcome to this repository!
 
-Over here I am doing things a bit differently. In this repository you will find a folder containing my notebooks where I relearn the fundamentals of data science. 
+Over here I am doing things a bit differently. In this repository you will find a folder containing my notebooks where I am constantly relearning the fundamentals of data science. 
 
-This repository is meant to serve as my database for all I do for the next 6 months - showing up everyday from 28th April 2024 to October 31st 2024.
+This repository serves as my database for learning, unlearning, relearning and shaperning my data science skills.
 
 Thank you and adios✌.
